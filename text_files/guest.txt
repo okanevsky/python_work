@@ -1,0 +1,16 @@
+123321434
+
+555
+1
+2
+3
+4
+& C:/Users/Пользователь/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/projects/python_work/text_files/10-4.py
+1
+2
+3
+4
+1
+2
+3
+4
